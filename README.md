@@ -8,4 +8,4 @@ Repositório dos Desafios propostos no Bootcamp Unimed BH - Referente aos conte�
 
 # Objetivo
 
-O presente repositório contempla 3 desafios de código. Cujo objetivo era aprimorar a leitura mitigando erros de compilação utilizando o Typescript no desenvilvimento do dos códigos.
+O presente repositório contempla 3 desafios de código, cujo objetivo era aprimorar a leitura mitigando erros de compilação utilizando o Typescript no desenvilvimento dos códigos.
